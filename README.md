@@ -3,8 +3,7 @@
 </h3>
 <p align="center"> 
   <a href="#woman_technologist-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mag_right-technologies">[Tecnologias](https://github.com/nadinevolinger/-re-programa_teens/edit/master/README.md#:~:text=%F0%9F%96%A5%EF%B8%8F-,Tecnologias,-HTML)
-  </a>
+  <a href="#mag_right-technologies">Tecnologias</a>
 
 </p>
 <h4>:female_sign: Projeto </h4>
