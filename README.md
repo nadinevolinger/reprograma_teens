@@ -2,8 +2,8 @@
 	Projeto Final - {Re}programa Teens
 </h3>
 <p align="center"> 
-  <a href="#woman_technologist-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mag_right-technologies">Tecnologias</a>
+  <a href="#female_sign">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#retecnologias">Tecnologias</a>
 
 </p>
 <h4>:female_sign: Projeto </h4>
@@ -18,4 +18,4 @@
 
   
 ---
-Made by nadinevolinger :crescent_moon:
+Criado por nadinevolinger :crescent_moon:
